@@ -1,0 +1,13 @@
+.venv/\n__pycache__/\n*.py[cod]\n.env\nnode_modules/\ndist/\n*.db\n
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+*.db
+*.sqlite
+*.sqlite3
